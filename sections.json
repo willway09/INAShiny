@@ -1,0 +1,47 @@
+[
+	{
+		"title": "Meta Information",
+		"objname": "Meta",
+		"id": "meatainfo"
+	},
+	{
+		"title": "Geographic Biological Nodes",
+		"objname": "GeoBioNodes",
+		"id": "geobionodes"
+	},
+	{
+		"title": "Locations with Management Information",
+		"objname": "InfoLoc",
+		"id": "infoloc"
+	},
+	{
+		"title": "Locations with Biological Pathogen",
+		"objname": "BioLoc",
+		"id": "bioloc"
+	},
+	{
+		"title": "Socioeconomic Adjacency Matrix",
+		"objname": "AdjacencyMatrix",
+		"id": "seam"
+	},
+	{
+		"title": "Biophysical Adjacency Matrix",
+		"objname": "AdjacencyMatrix",
+		"id": "bpam"
+	},
+	{
+		"title": "Managemnt Adoption",
+		"objname": "ManagementAdoption",
+		"id": "manadopt"
+	},
+	{
+		"title": "Biological Establishment Management Effect",
+		"objname": "BioEstablishManEffect",
+		"id": "bioestabmaneff"
+	},
+	{
+		"title": "Science of Science",
+		"objname": "ScienceOfScience",
+		"id": "scienceofscience"
+	}
+]

@@ -1,0 +1,16 @@
+[
+	{
+		"title": "Meta Information",
+		"objname" : "Meta",
+		"id": "metainfo",
+		"constructors": [
+			{
+				"name": "Main Constructor",
+				"parameters": [
+					
+				]
+
+			}
+		]
+	}
+]
